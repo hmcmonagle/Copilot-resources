@@ -8,6 +8,9 @@
 # The links below are resources that may be references during the GSS presention
 # on this topic and were helpful for setting up Copilot for R. 
 
+# Homepage for Github Copilot
+# https://github.com/features/copilot
+
 # Instructions for getting a free Github Pro account as a student: 
 # https://techcommunity.microsoft.com/t5/educator-developer-blog/step-by-step-setting-up-github-student-and-github-copilot-as-an/ba-p/3736279#:~:text=Setting%20Up%20Copilot&text=You%20should%20now%20be%20able,Github%20Student%20Developer%20Pack%20benefits
 
